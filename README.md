@@ -83,7 +83,7 @@ $$P(\bar{A} \cap \bar{B}) = 1 - P(A \cup B) = 1 - 0{,}70 = 0{,}30$$
 - **B seulement** *(non-Action, < 120 min)* : ApexAction, KPop Demon Hunters, The Damsel, Hustle, The Adam Project — 5 films
 - **Ā∩B̄** *(ni Action ni court)* : Purple Hearts, Enola Holmes, Don't Look Up, The Irishman, Glass Onion, Bird Box — 6 films
 
-<img width="1075" height="1174" alt="venn_streamviz" src="https://github.com/user-attachments/assets/5e2bf53c-8d2e-49c9-8871-2f7853afebfd" />
+<img width="1075" height="1174" alt="venn_streamviz" src="https://github.com/user-attachments/assets/0e2c7f52-5955-41f6-b735-312ec2a6552d" />
 
 
 ## 🛠️ Stack technique
